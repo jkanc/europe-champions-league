@@ -1,0 +1,55 @@
+###################################
+# Champions League 2016/17
+#
+#  - en.wikipedia.org/wiki/2016–17_UEFA_Champions_League
+
+# Dates: 28 June – 24 August 2016 (qualifying)
+#        13 September 2016 – 3 June 2017 (competition proper)
+# Teams: 32 (group stage)
+
+
+league: cl
+season: 2016/17
+start_at: 2016-09-13
+
+
+fixtures:
+- cl
+- cl_finals
+
+
+32 teams:
+## Group stage
+- Club Brugges                ## Belgium 1st
+- Leicester City              ## England 1st
+- Arsenal                     ## England 2nd
+- Tottenham Hotspur           ## England 3rd
+- Paris Saint-Germain         ## France  1st
+- Lyon                        ## France 2nd
+- Bayern München              ## Germany 1st
+- Borussia Dortmund           ## Germany 2nd
+- Bayer Leverkusen            ## Germany 3rd
+- Juventus                    ## Italy 1st
+- Napoli                      ## Italy 2nd
+- PSV Eindhoven               ## Netherlands 1st  
+- Benfica                     ## Portugal 1st
+- Sporting CP                 ## Portugal 2nd
+- CSKA Moscow                 ## Russia 1st
+- Basel                       ## Switzeland 1st
+- FC Barcelona                ## Spain 1st
+- Real Madrid                 ## (TH) Spain 2nd
+- Atlético Madrid             ## Spain 3rd
+- Sevilla FC                  ## (EL) Spain 
+- Beşiktaş                    ## Turkey 1st
+- Dynamo Kyiv                 ## Ukraine 1st
+### Group stage (10 from playoffs)
+- Ludogorets Razgrad          ## Bulgarian
+- Dinamo Zagreb               ## Croatia 
+- Copenhagen                  ## Denmark
+- Manchester City             ## England
+- Monaco                      ## France
+- Borussia Mönchengladbach    ## Germany 
+- Legia Warsaw                ## Poland
+- Porto FC                    ## Portugal
+- Rostov                      ## Russia 
+- Celtic FC                   ## Scotland
